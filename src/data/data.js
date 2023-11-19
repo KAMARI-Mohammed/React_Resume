@@ -3,10 +3,9 @@ const data = {
     title: 'Data Analyst',
     contact: {
       email: 'kamarimohammed@gmail.com',
-      phone: '123-456-7890',
-      linkedin: 'linkedin.com/in/yourlinkedin',
-      github: 'github.com/yourgithub',
-      website: 'yourwebsite.com',
+        phone: '0765868918',
+        linkedin: 'https://www.linkedin.com/in/mohammedkamari/',
+      github: 'https://github.com/dashboard',
     },
     education: [
       {
@@ -49,9 +48,9 @@ const data = {
         description: 'Intégration des offres(préparation Créatives) : HTML5,CSS3 - Effectuer une série de tests pour assurer lenvoie des offres : PORT 25 - Gestion et maintenance des Serveurs - Attribution de Vps a chaque membre de équipe - animer une réunion chaque semaine pour faire le point de l’avancement de travail',
       },
       {
-        title: 'Software Engineer',
-        company: 'Tech Company',
-        year: '20XX - Present',
+        title: 'Développeur full stack',
+        company: 'ISTA Adarissa',
+        year: 'De avril 2017 à juin 2017',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       },
     ],

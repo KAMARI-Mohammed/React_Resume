@@ -10,7 +10,6 @@ const Header = ({ name, title, profileImage, contact }) => (
         <p>Phone: {contact.phone}</p>
         <p>LinkedIn: {contact.linkedin}</p>
         <p>GitHub: {contact.github}</p>
-        <p>Website: {contact.website}</p>
       
     </div>
   );

@@ -9,7 +9,7 @@ import './App.css';
 const App = () => {
   return (
     <div className="container">
-      <div>
+      <div className="contact-info">
       <Header name={data.name} title={data.title} profileImage="/img/profil.jpeg" contact={data.contact} />
       <div className="skills">
       <Skills skills={data.skills} /> 
