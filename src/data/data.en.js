@@ -1,4 +1,4 @@
-const datafr = {
+const dataen = {
     name: 'KAMARI Mohammed',
     title: 'Data Analyst',
     contact: {
@@ -10,28 +10,28 @@ const datafr = {
     education: [
       {
         degree: 'Master Web Analyste',
-        school: 'Université de Lille',
-        year: 'Diplômé en 2024',
+        school: 'University of Lille',
+        year: 'Graduated in 2024',
       },
       {
         degree: 'M1 EN INGÉNIERIE DES SYSTÈMES D’INFORMATION',
         school: 'ESISA',
-        year: 'Diplômé en 2023',
+        year: 'Graduated in 2023',
       },
       {
         degree: 'Licence en Ingénierie logicielle',
         school: 'ESISA',
-        year: 'Diplômé en 2022',
+        year: 'Graduated in 2022',
       },
       {
         degree: 'Licence Professionnel génie logiciel et multimédia',
         school: 'Faculté des Sciences Dhar El Mehraz',
-        year: 'Diplômé en 2019',
+        year: 'Graduated in 2019',
       },
       {
         degree: 'Diplôme Technicien Spécialisé en Développement Informatique',
         school: 'Institut Spécialisé de Technologie Appliquée',
-        year: 'Diplômé en 2017',
+        year: 'Graduated in 2017',
       },
     ],
     experience: [
@@ -51,10 +51,11 @@ const datafr = {
         title: 'Développeur full stack',
         company: 'ISTA Adarissa',
         year: 'De avril 2017 à juin 2017',
+        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       },
     ],
     skills: ['JavaScript', 'React.js', 'HTML', 'CSS', 'Node.js'],
   };
   
-  export default datafr;
+  export default dataen;
   
